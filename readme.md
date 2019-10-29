@@ -4,7 +4,7 @@
 
 # 実行環境
 
-(ここに図)  
+(ここに各装置のつなぎ方の図)  
 
 ![概要図](https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/overview.png)
 
