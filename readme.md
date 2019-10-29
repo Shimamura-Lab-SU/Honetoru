@@ -4,7 +4,7 @@
 
 ## 実行環境
 
-(ここに図) 
+(ここに図)  
 ![概要図](https://github.com/akiyoko/foo/wiki/images/bar.png)
 
 - PC
@@ -16,6 +16,11 @@
 
 
 ## 使い方
+
+### 実行ファイル
+
+- **`Honetoru_ver_1_2.m`**
+
 
 (ここに使い方) 
 
