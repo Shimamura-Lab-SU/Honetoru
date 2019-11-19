@@ -5,37 +5,40 @@
 # 実行環境
 
 ### [完成前]  
-<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image7.jpeg" width="700px">  
-↓
+<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image7.jpeg" width="700px">
 
 ↓
 
 ↓
-<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image2.jpeg" width="400px">  
-↓
+
+<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image2.jpeg" width="400px">
 
 ↓
 
 ↓
-<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image3.jpeg" width="400px">  
-↓
+
+<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image3.jpeg" width="400px">
 
 ↓
 
 ↓
-<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image4.jpeg" width="400px">  
-↓
 
-↓
+<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image4.jpeg" width="400px">
 
-↓
-<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image5.jpeg" width="400px">  
 ↓
 
 ↓
 
 ↓
-<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image6.jpeg" width="400px">  
+<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image5.jpeg" width="400px">
+
+↓
+
+↓
+
+↓
+<img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image6.jpeg" width="400px">
+
 ↓
 
 ↓
