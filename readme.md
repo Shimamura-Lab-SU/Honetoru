@@ -4,7 +4,17 @@
 
 # 実行環境
 
-### [完成前]  
+## 機材一覧
+
+- PC
+- 骨導マイクロホン
+- 骨導マイクロホン用アンプ
+- 一般のマイクロホン
+- 一般のマイクロホン用アンプ ( audio-technica AT-HA2 )
+- オーディオインターフェイス ( Roland UA-101 )
+
+
+## 完成前
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image7.jpeg" width="700px">
 
 ↓
@@ -44,18 +54,8 @@
 
 ↓
 
-### [完成後]
+## 完成後
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image1.jpeg" width="800px">  
-
-
-
-
-- PC
-- 骨導マイクロホン
-- 骨導マイクロホン用アンプ
-- 一般のマイクロホン
-- 一般のマイクロホン用アンプ ( audio-technica AT-HA2 )
-- オーディオインターフェイス ( Roland UA-101 )
 
 
 # どうやって使うの？
