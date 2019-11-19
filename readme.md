@@ -4,7 +4,7 @@
 
 # 実行環境
 
-**完成前**
+### [完成前]  
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image7.jpeg" width="700px">  
 ↓
 
@@ -42,7 +42,7 @@
 
 ↓
 
-**完成後**
+### [完成後]
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image1.jpeg" width="800px">  
 
 
