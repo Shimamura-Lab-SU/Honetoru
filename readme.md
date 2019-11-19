@@ -25,18 +25,17 @@
 
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image4.jpeg" width="400px">
 
-↓
 
 ↓
 
 ↓
+
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image5.jpeg" width="400px">
 
 ↓
 
 ↓
 
-↓
 <img src="https://github.com/Shimamura-Lab-SU/Honetoru/blob/master/image6.jpeg" width="400px">
 
 ↓
